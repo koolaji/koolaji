@@ -1,140 +1,123 @@
-<h1 align="center">Hey Everyone 👋, I'm Mehrdad Koolaji</h1>
+<h1 align="center">Mehrdad Koolaji</h1>
+<h3 align="center">Senior DevOps Engineer | Cloud Infrastructure Specialist</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/koolaji">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/koolaji">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:mehrdad@koolaji.ir">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://github.com/koolaji" alt="DevOps Engineer Banner">
+  <img src="https://komarev.com/ghpvc/?username=koolaji&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
-<h3 align="center">A Senior DevOps Engineer based in Dubai, UAE. Passionate about CI/CD, Kubernetes, and cloud infrastructure automation.</h3>
-<p align="center">
-  <a href="https://github.com/koolaji">
-    <img src="https://img.shields.io/github/followers/koolaji?label=Follow&style=social" />
-  </a>
-  <a href="https://www.youtube.com/@devopsshack">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC1XLb_DoX2eNWGKjkh2epwA?style=social" />
-  </a>
-  <a href="https://linkedin.com/in/koolaji">
-    <img src="https://img.shields.io/badge/LinkedIn-Mehrdad%20Koolaji-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
+## Professional Summary
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+Experienced Senior DevOps Engineer with a proven track record in designing and implementing scalable cloud infrastructure, CI/CD pipelines, and containerization solutions. Specialized in Kubernetes orchestration, infrastructure automation, and DevOps best practices. Currently pursuing a PhD in Computer Engineering while applying cutting-edge methodologies to solve complex infrastructure challenges.
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=koolaji&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img align="right" alt="DevOps" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-## 👨‍💻 About Me
+## Core Competencies
 
-- 🚀 Senior DevOps Engineer with experience at Snapp! Box, MTN Irancell, and Digikala.com
-- 🎓 PhD candidate in Computer Engineering
-- 🌟 Specialized in GitLab CI/CD, Kubernetes, Docker, and Infrastructure as Code
-- 👨‍💻 All of my projects are available at [https://github.com/koolaji](https://github.com/koolaji)
-- 💬 Ask me about **DevOps, CI/CD, Kubernetes, and Cloud Infrastructure**
-- 📫 How to reach me: **mehrdad@koolaji.ir**
-- 📍 Based in Dubai, UAE
+- **CI/CD & Automation**: GitLab CI/CD, Jenkins, Terraform, Ansible, SaltStack
+- **Containers & Orchestration**: Kubernetes, Docker, OKD/OpenShift, Helm, ArgoCD
+- **Cloud & Infrastructure**: AWS, CDN, APISIX, BGP Routing
+- **Monitoring & Observability**: Prometheus, Grafana, ELK Stack
+- **Databases & Messaging**: MySQL, Oracle, Kafka, Redis
+- **Programming**: Python, Bash, Go
 
----
+## Professional Experience
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/koolaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-</p>
+### Senior DevOps Engineer
+**Snapp! Box | Dubai, UAE | March 2024 – Present**
+- Implemented trunk-based deployment model using GitLab CI/CD and Jenkins
+- Designed canary deployment strategies for incremental updates and performance monitoring
+- Migrated legacy systems to OKD/OpenShift for improved scalability
+- Reduced deployment times by 40% with automated rollback capabilities
 
----
+### DevOps Team Lead
+**MTN Irancell | Tehran, Iran | October 2023 – March 2024**
+- Led modernization of telecom platform infrastructure serving millions of users
+- Engineered version-based CI/CD pipelines with blue-green deployment strategies
+- Automated server provisioning and configuration management using Terraform and Ansible
 
-<h3 align="left">Skills & Technologies:</h3>
+### Senior DevOps Engineer
+**Digikala.com | Tehran, Iran | June 2020 – October 2023**
+- Built GitOps platform using GitLab CI/CD and ArgoCD to streamline software delivery
+- Authored and maintained Helm charts for stateful and stateless applications
+- Managed Bird BGP routers at various CDN edge nodes for traffic optimization
+- Deployed and managed 50+ node Rancher Kubernetes cluster
 
-#### CI/CD & Automation
-- GitLab CI/CD, Jenkins
-- Terraform, Ansible, SaltStack
-
-#### Containers & Orchestration
-- Kubernetes, Docker
-- OKD/OpenShift, Helm, ArgoCD
-
-#### Cloud, Monitoring & Databases
-- AWS, CDN, APISIX
-- Prometheus, Grafana, ELK Stack
-- MySQL, Oracle, Kafka, Redis
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</p>
-
----
-
-## 🎓 Education
-
+## Education
 - **PhD, Computer Engineering** (2024 – Present)  
   Islamic Azad University, Science & Research
 
-- **Master of Science (MS), Network & System Administration** (2020 – 2024)  
+- **Master of Science, Network & System Administration** (2020 – 2024)  
   Islamic Azad University, Science & Research
 
-- **Bachelor of Science (BS), Computer Hardware** (2004 – 2010)  
+- **Bachelor of Science, Computer Hardware** (2004 – 2010)  
   Qazvin Islamic Azad University
+## Certifications
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazon-aws" alt="AWS" />
+  <img src="https://img.shields.io/badge/CKAD-Certified-326CE5?style=flat-square&logo=kubernetes" alt="CKAD" />
+  <img src="https://img.shields.io/badge/Jenkins-Certified-D24939?style=flat-square&logo=jenkins" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Helm-Certified-0F1689?style=flat-square&logo=helm" alt="Helm" />
+  <img src="https://img.shields.io/badge/LPIC--1-Certified-003366?style=flat-square&logo=linux" alt="LPIC" />
+  <img src="https://img.shields.io/badge/Python-PCEP-3776AB?style=flat-square&logo=python" alt="Python" />
+</div>
+
+## Technologies & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=koolaji&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koolaji&layout=compact&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koolaji&theme=react&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## Professional Services
+
+- **DevOps Consulting**: Infrastructure design, CI/CD pipeline optimization, cloud migration
+- **Kubernetes Implementation**: Cluster setup, application deployment, scaling strategies
+- **Technical Training**: DevOps practices, containerization, infrastructure automation
+- **Cloud Architecture**: AWS infrastructure design, cost optimization, security implementation
+
+## Contact Information
+
+- **Email**: [mehrdad@koolaji.ir](mailto:mehrdad@koolaji.ir)
+- **LinkedIn**: [linkedin.com/in/koolaji](https://linkedin.com/in/koolaji)
+- **Location**: Dubai, UAE
 ---
 
-## 📜 Certifications
-
-- AWS Global Infrastructure (A Cloud Guru, 2025)
-- CKAD (KodeKloud, 2023)
-- Jenkins, Helm for Beginners, ArgoCD (KodeKloud, 2023)
-- LPIC-1 Exam 101 (KodeKloud, 2023)
-- PCEP: Python Entry-Level (KodeKloud, 2023)
-- And more...
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=koolaji&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koolaji&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
-
----
-### 🔥 GitHub Contribution Streak
-
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=koolaji&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
----
-### 👨‍💼 Professional Experience & Collaborations
-
-#### Current Role
-- **Senior DevOps Engineer** at Snapp! Box (March 2024 – Present)
-  - Implementing trunk-based deployment with GitLab CI/CD and Jenkins
-  - Driving canary deployment strategies and OKD/OpenShift migration
-
-#### Previous Experience
-- **DevOps Team Lead** at MTN Irancell (Oct 2023 – Mar 2024)
-- **Senior DevOps Engineer** at Digikala.com (Jun 2020 – Oct 2023)
-- Various roles at Bontech Holding (Dec 2012 – Jun 2020)
-
-#### Open to Opportunities
-🎤 Available for **Guest Sessions**  
-🤝 Open to **Project Collaborations**  
-💼 Offering **DevOps Consulting & Mentorship**  
-📧 Let's chat: [mehrdad@koolaji.ir](mailto:mehrdad@koolaji.ir)
-
-> *"Helping people master DevOps with real-world knowledge. Let's build and automate the future, one pipeline at a time!"*
+<p align="center">
+  <i>"Building scalable infrastructure and automating deployment pipelines to empower development teams and deliver exceptional user experiences."</i>
+</p>
