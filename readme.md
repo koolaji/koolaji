@@ -1,6 +1,9 @@
+<div align="center">
+  <img src="https://github.com/koolaji/koolaji/raw/main/banner.png" alt="Mehrdad Koolaji - DevOps Engineer" width="100%">
+</div>
+
 <h1 align="center">Mehrdad Koolaji</h1>
 <h3 align="center">Senior DevOps Engineer | Cloud Infrastructure Specialist</h3>
-
 <p align="center">
   <a href="https://linkedin.com/in/koolaji">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -64,7 +67,6 @@ Experienced Senior DevOps Engineer with a proven track record in designing and i
 - **Bachelor of Science, Computer Hardware** (2004 – 2010)  
   Qazvin Islamic Azad University
 ## Certifications
-
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazon-aws" alt="AWS" />
   <img src="https://img.shields.io/badge/CKAD-Certified-326CE5?style=flat-square&logo=kubernetes" alt="CKAD" />
@@ -75,7 +77,6 @@ Experienced Senior DevOps Engineer with a proven track record in designing and i
 </div>
 
 ## Technologies & Tools
-
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
