@@ -38,7 +38,7 @@ Experienced Senior DevOps Engineer with a proven track record in designing and i
 ## Professional Experience
 
 ### Senior DevOps Engineer
-**Snapp! Box | Dubai, UAE | March 2024 – Present**
+**Snapp! Box | Tehran, Iran | March 2024 – Present**
 - Implemented trunk-based deployment model using GitLab CI/CD and Jenkins
 - Designed canary deployment strategies for incremental updates and performance monitoring
 - Migrated legacy systems to OKD/OpenShift for improved scalability
@@ -116,7 +116,7 @@ Experienced Senior DevOps Engineer with a proven track record in designing and i
 
 - **Email**: [mehrdad@koolaji.ir](mailto:mehrdad@koolaji.ir)
 - **LinkedIn**: [linkedin.com/in/koolaji](https://linkedin.com/in/koolaji)
-- **Location**: Dubai, UAE
+- **Location**: Tehran, Iran
 ---
 
 <p align="center">
